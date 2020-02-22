@@ -6,7 +6,7 @@ import {
 } from '@material-ui/core'
 
 const Header = () => (
-    <AppBar>
+    <AppBar position="static">
         <Toolbar>
             <Typography>TaskReaction</Typography>
         </Toolbar>
