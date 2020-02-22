@@ -1,10 +1,8 @@
 import React from 'react'
-import {
-    Typography
-} from '@material-ui/core'
+import Header from './Components/Header'
 
 const App = () => (
-    <Typography>TaskReaction</Typography>
+    <Header />
 )
 
 export default App
