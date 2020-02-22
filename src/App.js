@@ -1,7 +1,10 @@
 import React from 'react'
+import {
+    Typography
+} from '@material-ui/core'
 
 const App = () => (
-    <h1>TaskReaction</h1>
+    <Typography>TaskReaction</Typography>
 )
 
 export default App
